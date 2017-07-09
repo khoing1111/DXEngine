@@ -1,0 +1,21 @@
+﻿  D3DResources.cpp
+d:\projects\visualstudioprojects\dxgameengine\dxengine\src\dxengine\manager\render\resources\d3dresources.cpp(387): warning C4244: '=': conversion from 'float' to 'UINT', possible loss of data
+d:\projects\visualstudioprojects\dxgameengine\dxengine\src\dxengine\manager\render\resources\d3dresources.cpp(388): warning C4244: '=': conversion from 'float' to 'UINT', possible loss of data
+d:\projects\visualstudioprojects\dxgameengine\dxengine\src\dxengine\manager\render\resources\d3dresources.cpp(487): warning C4244: '=': conversion from 'float' to 'UINT', possible loss of data
+d:\projects\visualstudioprojects\dxgameengine\dxengine\src\dxengine\manager\render\resources\d3dresources.cpp(488): warning C4244: '=': conversion from 'float' to 'UINT', possible loss of data
+  D2DResources.cpp
+  RenderManager.cpp
+d:\projects\visualstudioprojects\dxgameengine\dxengine\src\dxengine\manager\render\rendermanager.cpp(138): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+d:\projects\visualstudioprojects\dxgameengine\dxengine\src\dxengine\manager\render\rendermanager.cpp(139): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+  BitmapManager.cpp
+  Camera.cpp
+d:\projects\visualstudioprojects\dxgameengine\dxengine\src\dxengine\manager\camera\camera.cpp(273): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\projects\visualstudioprojects\dxgameengine\dxengine\src\dxengine\manager\camera\camera.cpp(274): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\projects\visualstudioprojects\dxgameengine\dxengine\src\dxengine\manager\camera\camera.cpp(275): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  InputManager.cpp
+d:\projects\visualstudioprojects\dxgameengine\dxengine\src\dxengine\manager\input\inputmanager.cpp(185): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\projects\visualstudioprojects\dxgameengine\dxengine\src\dxengine\manager\input\inputmanager.cpp(186): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  CameraManager.cpp
+  CameraControll.cpp
+  Generating Code...
+  DXEngine.vcxproj -> D:\Projects\VisualStudioProjects\DXGameEngine\DXGameEngine\Debug\DXEngine.lib
